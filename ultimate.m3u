@@ -1,29 +1,32 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides.xml"
 
 ########################################################
-# 📍 BY COUNTRY (FLAT LISTS)
+# 📍 BY COUNTRY (DIRECT FLAT UNPACKING)
 ########################################################
 
-#EXTINF:-1 group-title="MEXICO",--- MEXICO ---
-https://iptv-org.github.io/iptv/countries/mx.m3u
-
-#EXTINF:-1 group-title="ITALY",--- ITALY ---
-https://iptv-org.github.io/iptv/countries/it.m3u
-
-#EXTINF:-1 group-title="CANADA",--- CANADA ---
-https://iptv-org.github.io/iptv/countries/ca.m3u
-
-#EXTINF:-1 group-title="FRANCE",--- FRANCE ---
-https://iptv-org.github.io/iptv/countries/fr.m3u
-
-#EXTINF:-1 group-title="SPAIN",--- SPAIN ---
+#EXTINF:-1 group-title="SPAIN",--- SPAIN FULL ---
 https://iptv-org.github.io/iptv/countries/es.m3u
 
-#EXTINF:-1 group-title="USA",--- USA ---
+#EXTINF:-1 group-title="MEXICO",--- MEXICO FULL ---
+https://iptv-org.github.io/iptv/countries/mx.m3u
+
+#EXTINF:-1 group-title="ITALY",--- ITALY FULL ---
+https://iptv-org.github.io/iptv/countries/it.m3u
+
+#EXTINF:-1 group-title="CANADA",--- CANADA FULL ---
+https://iptv-org.github.io/iptv/countries/ca.m3u
+
+#EXTINF:-1 group-title="FRANCE",--- FRANCE FULL ---
+https://iptv-org.github.io/iptv/countries/fr.m3u
+
+#EXTINF:-1 group-title="USA",--- USA FULL ---
 https://iptv-org.github.io/iptv/countries/us.m3u
 
+#EXTINF:-1 group-title="UK",--- UK FULL ---
+https://iptv-org.github.io/iptv/countries/uk.m3u
+
 ########################################################
-# 📺 BY CATEGORY (FLAT LISTS)
+# 📺 BY CATEGORY (DIRECT FLAT UNPACKING)
 ########################################################
 
 #EXTINF:-1 group-title="NEWS",--- GLOBAL NEWS ---
@@ -32,11 +35,11 @@ https://iptv-org.github.io/iptv/categories/news.m3u
 #EXTINF:-1 group-title="SPORTS",--- GLOBAL SPORTS ---
 https://iptv-org.github.io/iptv/categories/sports.m3u
 
-#EXTINF:-1 group-title="ENTERTAINMENT",--- ENTERTAINMENT ---
-https://iptv-org.github.io/iptv/categories/entertainment.m3u
-
 #EXTINF:-1 group-title="MOVIES",--- MOVIES ---
 https://iptv-org.github.io/iptv/categories/movies.m3u
+
+#EXTINF:-1 group-title="ENTERTAINMENT",--- ENTERTAINMENT ---
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
 
 ########################################################
 # 🌍 INTERNATIONAL & GEOBLOCKED
