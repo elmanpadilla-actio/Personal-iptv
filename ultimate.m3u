@@ -1,0 +1,63 @@
+#EXTM3U
+
+########################################################
+# 🔓 OPEN ACCESS | NEWS
+########################################################
+#EXTINF:-1 tvg-id="ABCNews.us" group-title="News",ABC News Live
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewslive/playlist.m3u8
+#EXTINF:-1 tvg-id="CBSNews.us" group-title="News",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/master.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" group-title="News",Bloomberg TV
+https://bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" group-title="News",Sky News
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau/master.m3u8
+#EXTINF:-1 tvg-id="DW.en" group-title="News",DW English
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+########################################################
+# 🔓 OPEN ACCESS | SPORTS & GEN
+########################################################
+#EXTINF:-1 tvg-id="RedBullTV.at" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/flodotcom/master.m3u8
+#EXTINF:-1 tvg-id="NASA.us" group-title="Entertainment",NASA TV
+https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1 tvg-id="NatureVision.4k" group-title="Vibe | 4K",NatureVision 4K
+https://naturevision-highland.amagi.tv/playlist.m3u8
+
+########################################################
+# 🔒 VPN | SPAIN (Geo-Blocked)
+########################################################
+#EXTINF:-1 tvg-id="La1.es" group-title="VPN | Spain",La 1 (General)
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+#EXTINF:-1 tvg-id="Teledeporte.es" group-title="VPN | Spain",Teledeporte (Sports)
+https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
+#EXTINF:-1 tvg-id="24h.es" group-title="VPN | Spain",24h (News)
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8
+#EXTINF:-1 tvg-id="Antena3.es" group-title="VPN | Spain",Antena 3
+https://atrestv.akamaized.net/atrestv/antena3/master.m3u8
+
+########################################################
+# 🔒 VPN | UK (Geo-Blocked)
+########################################################
+#EXTINF:-1 tvg-id="BBCOne.uk" group-title="VPN | UK",BBC One
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-id="ITV1.uk" group-title="VPN | UK",ITV 1
+https://itvpnp-primary.akamaized.net/out/v1/7b18998d8ef39989f66300ca0927877e/master.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk" group-title="VPN | UK",Channel 4
+https://c4-pnp-primary.akamaized.net/out/v1/4seven/master.m3u8
+
+########################################################
+# 🔒 VPN | ITALY (Geo-Blocked)
+########################################################
+#EXTINF:-1 tvg-id="Rai1.it" group-title="VPN | Italy",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-id="Canale5.it" group-title="VPN | Italy",Canale 5
+https://live3-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(c5)/index.m3u8
+
+########################################################
+# 🔒 VPN | NORTH AMERICA (Geo-Blocked)
+########################################################
+#EXTINF:-1 tvg-id="CBC.ca" group-title="VPN | Canada",CBC News Explore
+https://cbclive.akamaized.net/hls/live/2042240/cbclive_explore/master.m3u8
+#EXTINF:-1 tvg-id="PBS.us" group-title="VPN | USA",PBS NewsHour
+https://livestream.pbs.org/out/v1/sample.m3u8
